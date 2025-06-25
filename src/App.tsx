@@ -155,7 +155,7 @@ function App() {
                   htmlFor="revenu" 
                   className="block text-sm font-medium text-gray-700 mb-2"
                 >
-                  Revenu fiscal de référence
+                  Les revenus fiscal avant déduction des forfaits et abattements + ressources étudiant / 2
                 </label>
                 <div className="relative">
                   <input
